@@ -37,19 +37,12 @@ Criar um portal colaborativo que permita a conexão de profissionais da área de
 #### 6) Aluno fecha o problema
 - Após sanadas as dúvidas sobre o problema, o aluno fecha o item no sistema.
 
-![Fluxo de Ações](assets/fluxo.png)
-
 <br>
 
-```mermaid
-sequenceDiagram
-    ALUNO->>+SISTEMA: Criar Problema
-    SISTEMA->>+PROGRAMADOR: Selecionar Problema
-    PROGRAMADOR->>-SISTEMA: Responder Problema
-    ALUNO-->>-SISTEMA: Replicar Problema
-    ALUNO->>+SISTEMA: Fechar Problema
-
-```
+![Fluxo de Ações](assets/sequenceDiagram.png)
+<center>
+Fluxo de Ações
+</center>
 
 ## Telas do Sistema
 
