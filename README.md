@@ -1,5 +1,3 @@
-# hackathon-rsxp
-
 ![Logo](assets/logo.jpg)
 ---
 
