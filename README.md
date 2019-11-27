@@ -1,4 +1,4 @@
-![Logo](assets/logo.jpg)
+![Logo](assets/logo.png)
 ---
 
 # Sistema: ProgramaEdu
