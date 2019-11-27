@@ -46,12 +46,4 @@ Fluxo de Ações
 
 ## Telas do Sistema
 
-### Tela do Programador
-
-<br>
-<br>
-
-### Tela do Aluno
-
-<br>
-<br>
+![Telas](assets/gycDrKJOX2.gif)
